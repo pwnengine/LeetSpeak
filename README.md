@@ -17,7 +17,7 @@ It's only capable of one-on-one communication at this time.
 # Disclaimer
 
 
-I seriously advice against using outside of education as the project is incredibly insecure without any form of encryption.
+I seriously advise against using outside of education as the project is incredibly insecure without any form of encryption.
 
 Meaning all of your conversations would be open to the public eye.
 
